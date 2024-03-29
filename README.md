@@ -8,8 +8,12 @@
 🌱 &nbsp;I am on track to learn more about machine learning
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at agrimajain223@gmail.com! \
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
-💬 &nbsp;Feel free to reach out to me!.\
+📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions! \
+💬 &nbsp;Feel free to reach out to me! 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="GIF">
+</p>
 
 
 ### 🛠 &nbsp;Tech Stack
