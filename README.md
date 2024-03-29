@@ -3,10 +3,10 @@
 
 ### 👨🏻‍💻 &nbsp; Few Facts About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently studying Computer Science at UPES, Dehradun.\
-🌱 &nbsp;I am on track to learn more about machine learning. \
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+🌱 &nbsp;I am on track to learn more about machine learning. I am keen about web development. \
+✍️ &nbsp;In my free time, I pursue UI-UX Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at agrimajain223@gmail.com! \
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions! \
 💬 &nbsp;Feel free to reach out to me! 
