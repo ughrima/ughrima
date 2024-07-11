@@ -13,7 +13,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="GIF">
 </p>
-
+<p align="center">
+That's me, coding away into the wee hours of the night, fueled by caffeine and questionable life choices.
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
